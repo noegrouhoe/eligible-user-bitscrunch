@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    text-align: center;
+}
+
+.modal-body {
+    text-align: left;
+}
